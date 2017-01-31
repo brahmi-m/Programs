@@ -1,0 +1,12 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AabcTrial\bin\Debug\AabcTrial.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AabcTrial\bin\Debug\AabcTrial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AabcTrial\bin\Debug\AabcTrial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AabcTrial\obj\Debug\AabcTrial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AabcTrial\obj\Debug\AabcTrial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AabcTrial\obj\Debug\AabcTrial.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AabcTrial\bin\Debug\AabcTrial.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AabcTrial\obj\Debug\AabcTrial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AabcTrial\obj\Debug\AabcTrial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AabcTrial\bin\Debug\AabcTrial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AabcTrial\bin\Debug\AabcTrial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AabcTrial\obj\Debug\AabcTrial.csprojResolveAssemblyReference.cache

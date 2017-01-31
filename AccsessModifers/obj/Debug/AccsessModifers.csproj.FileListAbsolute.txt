@@ -1,0 +1,12 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AccsessModifers\bin\Debug\AccsessModifers.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AccsessModifers\bin\Debug\AccsessModifers.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AccsessModifers\bin\Debug\AccsessModifers.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AccsessModifers\obj\Debug\AccsessModifers.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AccsessModifers\obj\Debug\AccsessModifers.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AccsessModifers\obj\Debug\AccsessModifers.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AccsessModifers\bin\Debug\AccsessModifers.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AccsessModifers\bin\Debug\AccsessModifers.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AccsessModifers\bin\Debug\AccsessModifers.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AccsessModifers\obj\Debug\AccsessModifers.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AccsessModifers\obj\Debug\AccsessModifers.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AccsessModifers\obj\Debug\AccsessModifers.pdb

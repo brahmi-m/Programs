@@ -1,0 +1,12 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AvinashBavaQuestions\bin\Debug\AvinashBavaQuestions.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AvinashBavaQuestions\bin\Debug\AvinashBavaQuestions.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AvinashBavaQuestions\bin\Debug\AvinashBavaQuestions.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AvinashBavaQuestions\obj\Debug\AvinashBavaQuestions.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AvinashBavaQuestions\obj\Debug\AvinashBavaQuestions.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\AvinashBavaQuestions\obj\Debug\AvinashBavaQuestions.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AvinashBavaQuestions\bin\Debug\AvinashBavaQuestions.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AvinashBavaQuestions\bin\Debug\AvinashBavaQuestions.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AvinashBavaQuestions\bin\Debug\AvinashBavaQuestions.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AvinashBavaQuestions\obj\Debug\AvinashBavaQuestions.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AvinashBavaQuestions\obj\Debug\AvinashBavaQuestions.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AvinashBavaQuestions\obj\Debug\AvinashBavaQuestions.pdb

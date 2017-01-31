@@ -1,0 +1,6 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AlgorithmsEx\bin\Debug\AlgorithmsEx.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AlgorithmsEx\bin\Debug\AlgorithmsEx.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AlgorithmsEx\bin\Debug\AlgorithmsEx.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AlgorithmsEx\obj\Debug\AlgorithmsEx.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AlgorithmsEx\obj\Debug\AlgorithmsEx.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\AlgorithmsEx\obj\Debug\AlgorithmsEx.pdb
