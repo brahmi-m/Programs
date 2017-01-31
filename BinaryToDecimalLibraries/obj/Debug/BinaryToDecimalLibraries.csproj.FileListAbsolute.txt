@@ -1,0 +1,5 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimalLibraries\bin\Debug\BinaryToDecimalLibraries.dll
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimalLibraries\bin\Debug\BinaryToDecimalLibraries.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimalLibraries\obj\Debug\BinaryToDecimalLibraries.dll
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimalLibraries\obj\Debug\BinaryToDecimalLibraries.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimalLibraries\obj\Debug\BinaryToDecimalLibraries.csprojResolveAssemblyReference.cache

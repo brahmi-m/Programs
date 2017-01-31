@@ -1,0 +1,12 @@
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

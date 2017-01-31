@@ -1,0 +1,6 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryTreeTraversalsWithoutRecursion\bin\Debug\BinaryTreeTraversalsWithoutRecursion.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryTreeTraversalsWithoutRecursion\bin\Debug\BinaryTreeTraversalsWithoutRecursion.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryTreeTraversalsWithoutRecursion\bin\Debug\BinaryTreeTraversalsWithoutRecursion.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryTreeTraversalsWithoutRecursion\obj\Debug\BinaryTreeTraversalsWithoutRecursion.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryTreeTraversalsWithoutRecursion\obj\Debug\BinaryTreeTraversalsWithoutRecursion.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\BinaryTreeTraversalsWithoutRecursion\obj\Debug\BinaryTreeTraversalsWithoutRecursion.csprojResolveAssemblyReference.cache
