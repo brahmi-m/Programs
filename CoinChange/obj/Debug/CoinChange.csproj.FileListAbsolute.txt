@@ -1,0 +1,12 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CoinChange\bin\Debug\CoinChange.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CoinChange\bin\Debug\CoinChange.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CoinChange\bin\Debug\CoinChange.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CoinChange\obj\Debug\CoinChange.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CoinChange\obj\Debug\CoinChange.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CoinChange\obj\Debug\CoinChange.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CoinChange\bin\Debug\CoinChange.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CoinChange\bin\Debug\CoinChange.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CoinChange\bin\Debug\CoinChange.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CoinChange\obj\Debug\CoinChange.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CoinChange\obj\Debug\CoinChange.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CoinChange\obj\Debug\CoinChange.pdb

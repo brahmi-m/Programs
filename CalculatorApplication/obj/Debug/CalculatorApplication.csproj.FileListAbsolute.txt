@@ -1,0 +1,12 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

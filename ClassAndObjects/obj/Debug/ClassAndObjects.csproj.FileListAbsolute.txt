@@ -1,0 +1,5 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\ClassAndObjects\bin\Debug\ClassAndObjects.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\ClassAndObjects\obj\Debug\ClassAndObjects.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\ClassAndObjects\obj\Debug\ClassAndObjects.pdb
