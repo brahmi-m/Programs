@@ -1,0 +1,12 @@
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\UpperLowerDigitVerigying\bin\Debug\UpperLowerDigitVerigying.exe.config
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\UpperLowerDigitVerigying\bin\Debug\UpperLowerDigitVerigying.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\UpperLowerDigitVerigying\bin\Debug\UpperLowerDigitVerigying.pdb
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\UpperLowerDigitVerigying\obj\Debug\UpperLowerDigitVerigying.csprojResolveAssemblyReference.cache
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\UpperLowerDigitVerigying\obj\Debug\UpperLowerDigitVerigying.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\UpperLowerDigitVerigying\obj\Debug\UpperLowerDigitVerigying.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\UpperLowerDigitVerigying\bin\Debug\UpperLowerDigitVerigying.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\UpperLowerDigitVerigying\bin\Debug\UpperLowerDigitVerigying.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\UpperLowerDigitVerigying\bin\Debug\UpperLowerDigitVerigying.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\UpperLowerDigitVerigying\obj\Debug\UpperLowerDigitVerigying.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\UpperLowerDigitVerigying\obj\Debug\UpperLowerDigitVerigying.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\UpperLowerDigitVerigying\obj\Debug\UpperLowerDigitVerigying.pdb
