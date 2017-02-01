@@ -1,0 +1,12 @@
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\EvenOddNumbers\bin\Debug\EvenOddNumbers.exe.config
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\EvenOddNumbers\bin\Debug\EvenOddNumbers.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\EvenOddNumbers\bin\Debug\EvenOddNumbers.pdb
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\EvenOddNumbers\obj\Debug\EvenOddNumbers.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\EvenOddNumbers\obj\Debug\EvenOddNumbers.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\EvenOddNumbers\obj\Debug\EvenOddNumbers.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\EvenOddNumbers\bin\Debug\EvenOddNumbers.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\EvenOddNumbers\bin\Debug\EvenOddNumbers.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\EvenOddNumbers\bin\Debug\EvenOddNumbers.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\EvenOddNumbers\obj\Debug\EvenOddNumbers.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\EvenOddNumbers\obj\Debug\EvenOddNumbers.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\EvenOddNumbers\obj\Debug\EvenOddNumbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Factorial\bin\Debug\Factorial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Factorial\bin\Debug\Factorial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Factorial\obj\Debug\Factorial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Factorial\obj\Debug\Factorial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Factorial\obj\Debug\Factorial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Factorial\obj\Debug\Factorial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Factorial\bin\Debug\Factorial.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Factorial\bin\Debug\Factorial.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache

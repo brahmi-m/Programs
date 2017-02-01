@@ -1,0 +1,6 @@
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\Examples\bin\Debug\Examples.exe.config
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\Examples\bin\Debug\Examples.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\Examples\bin\Debug\Examples.pdb
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\Examples\obj\Debug\Examples.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\Examples\obj\Debug\Examples.pdb
