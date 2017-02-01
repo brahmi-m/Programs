@@ -1,0 +1,10 @@
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\Pallindrom\bin\Debug\Pallindrom.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Pallindrom\bin\Debug\Pallindrom.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Pallindrom\bin\Debug\Pallindrom.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Pallindrom\obj\Debug\Pallindrom.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\HelloWorld\Pallindrom\obj\Debug\Pallindrom.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Pallindrom\bin\Debug\Pallindrom.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Pallindrom\bin\Debug\Pallindrom.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Pallindrom\bin\Debug\Pallindrom.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Pallindrom\obj\Debug\Pallindrom.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\Pallindrom\obj\Debug\Pallindrom.pdb

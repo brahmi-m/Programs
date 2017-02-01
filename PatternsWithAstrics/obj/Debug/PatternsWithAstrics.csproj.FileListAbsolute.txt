@@ -1,0 +1,12 @@
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\PatternsWithAstrics\bin\Debug\PatternsWithAstrics.exe.config
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\PatternsWithAstrics\obj\Debug\PatternsWithAstrics.csprojResolveAssemblyReference.cache
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\PatternsWithAstrics\bin\Debug\PatternsWithAstrics.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\PatternsWithAstrics\bin\Debug\PatternsWithAstrics.pdb
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\PatternsWithAstrics\obj\Debug\PatternsWithAstrics.exe
+c:\users\brahm\documents\visual studio 2015\Projects\HelloWorld\PatternsWithAstrics\obj\Debug\PatternsWithAstrics.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\PatternsWithAstrics\bin\Debug\PatternsWithAstrics.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\PatternsWithAstrics\bin\Debug\PatternsWithAstrics.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\PatternsWithAstrics\bin\Debug\PatternsWithAstrics.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\PatternsWithAstrics\obj\Debug\PatternsWithAstrics.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\PatternsWithAstrics\obj\Debug\PatternsWithAstrics.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\PatternsWithAstrics\obj\Debug\PatternsWithAstrics.pdb
