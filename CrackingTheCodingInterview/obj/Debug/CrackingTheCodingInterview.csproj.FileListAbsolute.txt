@@ -1,0 +1,6 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CrackingTheCodingInterview\bin\Debug\CrackingTheCodingInterview.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CrackingTheCodingInterview\bin\Debug\CrackingTheCodingInterview.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CrackingTheCodingInterview\bin\Debug\CrackingTheCodingInterview.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CrackingTheCodingInterview\obj\Debug\CrackingTheCodingInterview.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CrackingTheCodingInterview\obj\Debug\CrackingTheCodingInterview.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\CrackingTheCodingInterview\obj\Debug\CrackingTheCodingInterview.pdb
