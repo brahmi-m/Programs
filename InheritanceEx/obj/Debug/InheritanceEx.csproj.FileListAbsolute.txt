@@ -1,0 +1,6 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\InheritanceEx\bin\Debug\InheritanceEx.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\InheritanceEx\bin\Debug\InheritanceEx.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\InheritanceEx\bin\Debug\InheritanceEx.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\InheritanceEx\obj\Debug\InheritanceEx.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\InheritanceEx\obj\Debug\InheritanceEx.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\InheritanceEx\obj\Debug\InheritanceEx.csprojResolveAssemblyReference.cache

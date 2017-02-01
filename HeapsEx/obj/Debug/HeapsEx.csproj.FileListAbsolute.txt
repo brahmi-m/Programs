@@ -1,0 +1,6 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\HeapsEx\bin\Debug\HeapsEx.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\HeapsEx\bin\Debug\HeapsEx.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\HeapsEx\bin\Debug\HeapsEx.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\HeapsEx\obj\Debug\HeapsEx.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\HeapsEx\obj\Debug\HeapsEx.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\HeapsEx\obj\Debug\HeapsEx.csprojResolveAssemblyReference.cache

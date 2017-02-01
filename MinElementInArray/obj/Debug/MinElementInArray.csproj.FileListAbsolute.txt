@@ -1,0 +1,6 @@
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\MinElementInArray\bin\Debug\MinElementInArray.exe.config
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\MinElementInArray\bin\Debug\MinElementInArray.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\MinElementInArray\bin\Debug\MinElementInArray.pdb
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\MinElementInArray\obj\Debug\MinElementInArray.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\MinElementInArray\obj\Debug\MinElementInArray.exe
+C:\Users\brahm\Documents\Visual Studio 2015\Projects\MyProjects\MinElementInArray\obj\Debug\MinElementInArray.pdb
